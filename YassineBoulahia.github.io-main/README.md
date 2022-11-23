@@ -1,2 +1,2 @@
-# Yassine-Boulahia.github.io
+# YassineBoulahia.github.io
 homepage website
